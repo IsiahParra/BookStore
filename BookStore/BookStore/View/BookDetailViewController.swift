@@ -8,7 +8,7 @@
 import UIKit
 
 class BookDetailViewController: UIViewController {
-    @IBOutlet weak var tellUsAboutThisBook: UILabel!
+    @IBOutlet weak var bookSynopsis: UILabel!
     @IBOutlet weak var bookPhoto: UIImageView!
     @IBOutlet weak var bookTitleTextField: UITextField!
     @IBOutlet weak var bookAuthorTextField: UITextField!

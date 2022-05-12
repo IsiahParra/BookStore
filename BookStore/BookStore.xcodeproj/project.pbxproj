@@ -15,6 +15,7 @@
 		9D389DA9282D98BD00D8D716 /* BookListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D389DA8282D98BD00D8D716 /* BookListTableViewController.swift */; };
 		9D389DAC282DA75B00D8D716 /* BookTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D389DAB282DA75B00D8D716 /* BookTableViewCell.swift */; };
 		9D389DAE282DACE100D8D716 /* BookDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D389DAD282DACE100D8D716 /* BookDetailViewController.swift */; };
+		9D389DB0282DB96C00D8D716 /* Book.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D389DAF282DB96C00D8D716 /* Book.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		9D389DA8282D98BD00D8D716 /* BookListTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookListTableViewController.swift; sourceTree = "<group>"; };
 		9D389DAB282DA75B00D8D716 /* BookTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookTableViewCell.swift; sourceTree = "<group>"; };
 		9D389DAD282DACE100D8D716 /* BookDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookDetailViewController.swift; sourceTree = "<group>"; };
+		9D389DAF282DB96C00D8D716 /* Book.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Book.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 		9D389DA7282D95F300D8D716 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				9D389DAF282DB96C00D8D716 /* Book.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -194,6 +197,7 @@
 			files = (
 				9D389DAC282DA75B00D8D716 /* BookTableViewCell.swift in Sources */,
 				419B178027987EBC00423A18 /* AppDelegate.swift in Sources */,
+				9D389DB0282DB96C00D8D716 /* Book.swift in Sources */,
 				419B178227987EBC00423A18 /* SceneDelegate.swift in Sources */,
 				9D389DA9282D98BD00D8D716 /* BookListTableViewController.swift in Sources */,
 				9D389DAE282DACE100D8D716 /* BookDetailViewController.swift in Sources */,

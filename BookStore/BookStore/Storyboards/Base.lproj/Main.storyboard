@@ -181,8 +181,8 @@
                         <outlet property="bookAuthorTextField" destination="7kz-qi-oKx" id="sOY-X9-Br0"/>
                         <outlet property="bookPhoto" destination="9Yc-fF-5jD" id="As5-qv-2TJ"/>
                         <outlet property="bookRatingTextField" destination="2nu-iI-7Ex" id="d9b-S3-7hf"/>
+                        <outlet property="bookSynopsis" destination="p0A-gV-I4T" id="Vde-W8-zM0"/>
                         <outlet property="bookTitleTextField" destination="gnj-K6-dhF" id="hwj-BF-o6Y"/>
-                        <outlet property="tellUsAboutThisBook" destination="p0A-gV-I4T" id="Vde-W8-zM0"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="oNl-Os-ujw" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
